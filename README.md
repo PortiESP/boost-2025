@@ -30,5 +30,5 @@ Y por supuesto...
 
 * 🔑 Acceso a modelos de IA: Te damos una API Key para que puedas usar herramientas de inteligencia artificial generativa sin coste durante el hackathon. Úsala para programar, diseñar e integrarla en tu solución.
 * 📦 Conjuntos de datos simulados: Productos, tallas, tiendas, almacenes y coordenadas para montar todo lo que necesites.
-* 🌍 Acceso al API real de Inditex para obtener más contexto del mundo real.
+* 🌍 Acceso al [API real de Inditex](https://developer.inditex.com/apimktplc/web/products/pubapimkt/protocols/REST/apis/product-search/overview) para obtener más contexto del mundo real.
 * 🧑‍🎨 Libertad TOTAL: Framework, lenguaje, IA, diseño, arquitectura... ¡lo que tú quieras!
